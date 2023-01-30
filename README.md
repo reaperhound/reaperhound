@@ -1,8 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on a "Learning Management System"<br>🌱 I’m currently learning MERN Stack<br>⚡ Fun fact
+🔭 I’m currently working on a "Learning Management System"<br>🌱 I’m currently learning MERN Stack<br>⚡ Fun fact I love Books
 
-
-
+<img src="https://media.giphy.com/media/l4KhUzHpPce7SaSHe/giphy.gif" alt="Computer man" width="300" align="right">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reaper_hound) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajmalkhana007) 
