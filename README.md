@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a "Learning Management System"<br>🌱 I’m currently learning MERN Stack<br>⚡ Fun fact I love Books
+🔭 MERN stack Developer
 
 <img src="https://media.giphy.com/media/l4KhUzHpPce7SaSHe/giphy.gif" alt="Computer man" width="300" align="right">
 
