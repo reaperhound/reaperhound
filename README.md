@@ -1,17 +1,17 @@
-<!-- <div align="center">
+<div align="center">
 
 <a href="https://github.com/CatsJuice/ssr-contributions-img">
 
    <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/reaperhound?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
     <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/reaperhound?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
-    <img alt="" src="[[https://ssr-contributions-svg.vercel.app/_/reaperhound?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink](https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)](https://contribution.catsjuice.com/_/reaperhound?chart=3dbar&gap=0.6&scale=2&light=1&gradient=true&flatten=1&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=40&theme=native)https://contribution.catsjuice.com/_/reaperhound?chart=3dbar&gap=0.6&scale=2&light=1&gradient=true&flatten=1&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=40&theme=native" >
+    <img alt="" src="https://contribution.catsjuice.com/_/reaperhound?chart=3dbar&gap=0.6&scale=2&light=1&gradient=true&flatten=1&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=40&theme=native" >
   </picture>
 </a>
 </div>
 
 <p align="center">
-<!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F7A26&width=435&lines=Ajmal+Khan+A;Full-Stack+Developer" alt="Typing SVG" /></a> -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F7A26&width=435&lines=Ajmal+Khan+A;Full-Stack+Developer" alt="Typing SVG" /></a>
   <a href="https://git.io/typing-svg"><img src="https://tinyurl.com/yv8vuxxz" alt="Typing SVG" /></a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 </br>
-<!-- ```javascript
+```javascript
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
@@ -33,7 +33,7 @@ const thai = {
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
-``` -->
+```
 
   <h3>💻 GitHub Profile Stats</h3>
   </br>
@@ -68,7 +68,6 @@ const thai = {
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<!-- <div align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
 </div>
---> -->
