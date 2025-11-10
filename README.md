@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/CatsJuice/ssr-contributions-img">
 
@@ -71,4 +71,4 @@ const thai = {
 <!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
 </div>
--->
+--> -->
