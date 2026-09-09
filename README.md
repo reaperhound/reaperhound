@@ -1,9 +1,32 @@
 <div align="center">
 
   <img
-    alt="Hello, I'm Ajmal Khan — Software Engineer — Open Source Enthusiast"
+    alt="Hello, I'm Ajmal Khan — Software Engineer"
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&width=435&lines=Hello%2C+I'm+Ajmal+Khan;Software+Engineer"
   />
+
+</div>
+
+<br />
+
+## What I care about
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Building</strong><br />
+      Reliable products, clean interfaces, and systems that stay understandable as they grow.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Exploring</strong><br />
+      Full-stack engineering, developer tools, open source, and the craft behind great user experiences.
+    </td>
+  </tr>
+</table>
+
+## Contribution graph
+
+<div align="center">
 
   <a href="https://github.com/reaperhound">
     <img
@@ -11,4 +34,10 @@
       src="https://contribution.oooo.so/_/reaperhound?chart=3dbar&gap=0.6&scale=2&flatten=0&gradient=false&legend=false&legendPosition=bottomLeft&legendDirection=row&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=25&animation_frequency=0.5&weeks=30&theme=volt_riot&dark=true&format=svg"
     />
   </a>
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Always learning. Always shipping.</sub>
 </div>
