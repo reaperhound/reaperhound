@@ -2,7 +2,7 @@
 
   <img
     alt="Hello, I'm Ajmal Khan — Software Engineer — Open Source Enthusiast"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&width=435&lines=Hello%2C+I'm+Ajmal+Khan;Software+Engineer;Open+Source+Enthusiast"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&width=435&lines=Hello%2C+I'm+Ajmal+Khan;Software+Engineer"
   />
 
   <a href="https://github.com/reaperhound">
