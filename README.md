@@ -1,5 +1,10 @@
 <div align="center">
 
+  <img
+    alt="Hello, I'm Alex — Full-Stack Developer — Open Source Enthusiast"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&width=435&lines=Hello%2C+I'm+Alex;Full-Stack+Developer;Open+Source+Enthusiast"
+  />
+
   <a href="https://github.com/reaperhound">
     <img
       alt="GitHub contribution animation"
