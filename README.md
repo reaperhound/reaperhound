@@ -11,8 +11,8 @@
 
 <div align="center">
   <img
-    alt="Tools: JavaScript, TypeScript, React, Node.js, Python, NestJS, PostgreSQL, MariaDB, Go, Docker, Git, and GitHub"
-    src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,python,nestjs,postgres,mariadb,go,docker,git,github"
+    alt="Tools: JavaScript, TypeScript, React, Node.js, Python, NestJS, PostgreSQL,Redis, MariaDB, Go, Docker, Git, and GitHub"
+    src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,python,nestjs,postgres,redis,mariadb,go,docker,git,github"
   />
 </div>
 
